@@ -1,0 +1,826 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\database\\config\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:database\\config\\adminconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AF83C7-148B-43A1-8080-731DBBD0AB49}|..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission1.tests\\usecasefinalsubmission1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AF83C7-148B-43A1-8080-731DBBD0AB49}|..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission1.tests\\usecasefinalsubmission1.tests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\usecasefinalsubmission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:usecasefinalsubmission.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AF83C7-148B-43A1-8080-731DBBD0AB49}|..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission1.tests\\controller\\admincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\database\\config\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:database\\config\\courseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\database\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:database\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\database\\config\\enrollmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:database\\config\\enrollmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\services\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:services\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AF83C7-148B-43A1-8080-731DBBD0AB49}|..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission1.tests\\controller\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AF83C7-148B-43A1-8080-731DBBD0AB49}|..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission1.tests\\controller\\coursecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\usecasefinalsubmission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:usecasefinalsubmission.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251127093023_k121.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251127093023_k121.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251126044510_k2121.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251126044510_k2121.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251201140654_k33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251201140654_k33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\enrollement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\enrollement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251126105851_k12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251126105851_k12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251121110012_k232.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251121110012_k232.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\loginrequest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\loginrequest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\models\\enrollanduneroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:models\\enrollanduneroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\validations\\coursevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:validations\\coursevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\validations\\studentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:validations\\studentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251125143518_k1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251125143518_k1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\database1modelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\database1modelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\usecasefinalsubmission.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:usecasefinalsubmission.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|c:\\users\\kalyanamalisetty\\pratice\\usecasefinalsubmission\\migrations\\20251201074656_k2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BACE6B4-0213-4C9B-AEDD-0D9AEBCD6D9E}|UseCaseFinalSubmission.csproj|solutionrelative:migrations\\20251201074656_k2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UseCaseFinalSubmission.http",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.http",
+              "RelativeDocumentMoniker": "UseCaseFinalSubmission.http",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.http",
+              "RelativeToolTip": "UseCaseFinalSubmission.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-01T14:12:11.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseCaseFinalSubmission1.Tests.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj.Backup.tmp",
+              "RelativeToolTip": "..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-01T09:52:28.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UseCaseFinalSubmission1.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj",
+              "RelativeToolTip": "..\\UseCaseFinalSubmission1.Tests\\UseCaseFinalSubmission1.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T09:23:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\AdminConfig.cs",
+              "RelativeDocumentMoniker": "Database\\Config\\AdminConfig.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\AdminConfig.cs",
+              "RelativeToolTip": "Database\\Config\\AdminConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:39:16.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "Controllers\\AdminController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:28:01.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\CourseController.cs*",
+              "RelativeToolTip": "Controllers\\CourseController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:57:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:29:10.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizeController.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "Controllers\\AuthorizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:40:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:06:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:09:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:09:09.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwBUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:12:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:10:38.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:11:34.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:10:11.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwL4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:11:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:06:53.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\AdminControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\UseCaseFinalSubmission1.Tests\\Controller\\AdminControllerTests.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\AdminControllerTests.cs",
+              "RelativeToolTip": "..\\UseCaseFinalSubmission1.Tests\\Controller\\AdminControllerTests.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:24:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\CourseConfig.cs",
+              "RelativeDocumentMoniker": "Database\\Config\\CourseConfig.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\CourseConfig.cs",
+              "RelativeToolTip": "Database\\Config\\CourseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:45:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\StudentConfig.cs",
+              "RelativeDocumentMoniker": "Database\\Config\\StudentConfig.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\StudentConfig.cs",
+              "RelativeToolTip": "Database\\Config\\StudentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:41:58.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnrollmentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\EnrollmentConfig.cs",
+              "RelativeDocumentMoniker": "Database\\Config\\EnrollmentConfig.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\Config\\EnrollmentConfig.cs",
+              "RelativeToolTip": "Database\\Config\\EnrollmentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:48:25.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Services\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:08:36.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\StudentControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\UseCaseFinalSubmission1.Tests\\Controller\\StudentControllerTests.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\StudentControllerTests.cs",
+              "RelativeToolTip": "..\\UseCaseFinalSubmission1.Tests\\Controller\\StudentControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:07:30.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:22:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\CourseControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\UseCaseFinalSubmission1.Tests\\Controller\\CourseControllerTests.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission1.Tests\\Controller\\CourseControllerTests.cs",
+              "RelativeToolTip": "..\\UseCaseFinalSubmission1.Tests\\Controller\\CourseControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T09:48:44.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:16:31.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:28:46.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UseCaseFinalSubmission.csproj",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.csproj",
+              "RelativeDocumentMoniker": "UseCaseFinalSubmission.csproj",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.csproj",
+              "RelativeToolTip": "UseCaseFinalSubmission.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T09:04:02.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251127093023_k121.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251127093023_k121.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251127093023_k121.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251127093023_k121.cs",
+              "RelativeToolTip": "Migrations\\20251127093023_k121.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:30:24.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251126044510_k2121.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251126044510_k2121.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126044510_k2121.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251126044510_k2121.cs",
+              "RelativeToolTip": "Migrations\\20251126044510_k2121.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:45:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:34:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T08:16:30.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251201140654_k33.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251201140654_k33.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251201140654_k33.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251201140654_k33.cs",
+              "RelativeToolTip": "Migrations\\20251201140654_k33.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:06:55.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Enrollement.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Enrollement.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollement.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Enrollement.cs",
+              "RelativeToolTip": "Models\\Enrollement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:24:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:18:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251121110012_k232.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251121110012_k232.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251121110012_k232.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251121110012_k232.cs",
+              "RelativeToolTip": "Migrations\\20251121110012_k232.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:00:13.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20251201074656_k2.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251201074656_k2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251201074656_k2.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251201074656_k2.cs",
+              "RelativeToolTip": "Migrations\\20251201074656_k2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:46:56.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251126105851_k12.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251126105851_k12.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251126105851_k12.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251126105851_k12.cs",
+              "RelativeToolTip": "Migrations\\20251126105851_k12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:58:51.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:57:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginRequest1.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\LoginRequest1.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest1.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\LoginRequest1.cs",
+              "RelativeToolTip": "Models\\LoginRequest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T04:45:14.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EnrollAndUnEroll.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\EnrollAndUnEroll.cs",
+              "RelativeDocumentMoniker": "Models\\EnrollAndUnEroll.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Models\\EnrollAndUnEroll.cs",
+              "RelativeToolTip": "Models\\EnrollAndUnEroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:58:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Dtos\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Dtos\\StudentDto.cs",
+              "RelativeToolTip": "Dtos\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:52:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Dtos\\CourseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Dtos\\CourseDto.cs",
+              "RelativeToolTip": "Dtos\\CourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:52:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseValidation.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Validations\\CourseValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\CourseValidation.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Validations\\CourseValidation.cs",
+              "RelativeToolTip": "Validations\\CourseValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T03:47:56.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentValidation.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Validations\\StudentValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\StudentValidation.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Validations\\StudentValidation.cs",
+              "RelativeToolTip": "Validations\\StudentValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:13:14.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251125143518_k1.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251125143518_k1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251125143518_k1.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\20251125143518_k1.cs",
+              "RelativeToolTip": "Migrations\\20251125143518_k1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:35:19.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T10:34:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Database1ModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\Database1ModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\Database1ModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\Migrations\\Database1ModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\Database1ModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:04:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UseCaseFinalSubmission",
+              "DocumentMoniker": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.csproj",
+              "RelativeDocumentMoniker": "UseCaseFinalSubmission.csproj",
+              "ToolTip": "C:\\Users\\KalyanaMalisetty\\pratice\\UseCaseFinalSubmission\\UseCaseFinalSubmission.csproj",
+              "RelativeToolTip": "UseCaseFinalSubmission.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T11:29:12.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

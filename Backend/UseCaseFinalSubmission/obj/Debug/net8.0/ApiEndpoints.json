@@ -1,0 +1,260 @@
+[
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "GetAllStudentEnrollments",
+    "RelativePath": "api/Admin/AllStudentEnrollments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Admin/AllStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "getByData",
+    "RelativePath": "api/Admin/ByEmail/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Admin/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "GetEnrolledStudentsByCourseId",
+    "RelativePath": "api/Admin/EnrolledStudentsByCourseId/{courseId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "GetCourseStats",
+    "RelativePath": "api/Admin/GetCourseStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "CreateRegister",
+    "RelativePath": "api/Admin/StudentRegister",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "UseCaseFinalSubmission.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCase.Controllers.AdminController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Admin/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "UseCaseFinalSubmission.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.AuthorizeController",
+    "Method": "Login",
+    "RelativePath": "api/Authorize/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UseCaseFinalSubmission.Models.LoginRequest1",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.CourseController",
+    "Method": "CreateCourses",
+    "RelativePath": "api/Course/CreateCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "UseCaseFinalSubmission.Models.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.CourseController",
+    "Method": "DeleteByCourse",
+    "RelativePath": "api/Course/DeleteById/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.CourseController",
+    "Method": "GetAllCourses",
+    "RelativePath": "api/Course/GetAllCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.CourseController",
+    "Method": "GetCourseById",
+    "RelativePath": "api/Course/GetCourseById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.CourseController",
+    "Method": "UpdateCourse",
+    "RelativePath": "api/Course/UpdateCourseById/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "UseCaseFinalSubmission.Models.Course",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.StudentController",
+    "Method": "EnrollCourse",
+    "RelativePath": "api/Student/EnrollCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "UseCaseFinalSubmission.Models.EnrollAndUnEroll",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.StudentController",
+    "Method": "GetMyEnrollements",
+    "RelativePath": "api/Student/MyEnrollements/{StudentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UseCaseFinalSubmission.Controllers.StudentController",
+    "Method": "UnEnrollCourse",
+    "RelativePath": "api/Student/UnEnrolleCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "UseCaseFinalSubmission.Models.EnrollAndUnEroll",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
