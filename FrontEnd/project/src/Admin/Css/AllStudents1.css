@@ -1,0 +1,125 @@
+.s2 {
+    max-width:100%; /* page width */
+    margin: 90px auto;
+    padding: 20px;
+    background-color: #ffffff;
+   
+    font-family: Arial, sans-serif;
+    color: #023c67;
+}
+
+.s2 h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.s3 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.s3 input[type="text"] {
+    width: 800px;
+    max-width: 90%;
+    padding: 8px 10px;
+    border: 1.5px solid #023c67;
+    border-radius: 5px;
+    font-size: 15px;
+    outline: none;
+    transition: border 0.3s;
+    margin-left: 200px;
+}
+
+.s3 input[type="text"]:focus {
+    border-color: #023c67;
+}
+
+.s1 {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.s4 {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 800px; 
+}
+
+.s5 th {
+    background-color: #023c67;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+}
+
+.s6 td {
+    padding: 10px;
+    border: 1px solid #023c67;
+    color: #000000;
+    text-align: left;
+}
+
+.s6 button {
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.s6 button:hover {
+    background-color: #c1250f;
+    color: #ffff;
+}
+
+.s6 a button {
+    background-color: #023c67;
+    color: #ffffff;
+}
+
+.s6 a button:hover {
+    background-color: #023c67;
+}
+
+.s32{
+    float: right;
+    padding: 10px 20px;
+    background-color: #023c67; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    margin-left:300px;
+}
+
+.s29{
+    display: flex;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    .s2 {
+        padding: 15px;
+        margin: 15px auto;
+    }
+
+    .s3 input[type="text"] {
+        width: 100%;
+        font-size: 14px;
+        padding: 7px;
+    }
+
+    .s4, .s5 th, .s6 td {
+
+        font-size: 13px;
+        white-space: nowrap; /* prevent wrapping in table cells */
+    }
+
+    .s6 button {
+        font-size: 12px;
+        padding: 4px 8px;
+    }
+}

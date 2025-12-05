@@ -1,0 +1,52 @@
+{
+  "name": "project-used-files",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^6.22.3",
+    "web-vitals": "^2.1.4",
+    "react-icons": "^5.5.0",
+    "jwt-decode": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/preset-react": "^7.28.5",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "babel-jest": "^30.2.0",
+    "react-scripts": "^5.0.1",
+    "identity-obj-proxy": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --collect-coverage",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(css|less|scss)$": "identity-obj-proxy"
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/App.js",
+      "!src/index.js",
+      "!src/Admin/AllCourses.js",
+      "!src/Admin/NavBar.js", 
+      "!src/Student/Login.js",
+      "!src/Student/NavBar.js",
+      "!src/Student/ProtectedRoute.js"
+    ]
+  }
+}

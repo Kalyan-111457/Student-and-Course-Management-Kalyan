@@ -1,0 +1,98 @@
+.l1 {
+    background-color: #ffffff;
+    color: #023c67;
+    padding: 20px;
+    max-width: 80%;
+    margin: 90px auto;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.l1 h1, .l1 h2 {
+    color: #023c67;
+    margin-bottom: 15px;
+}
+
+.l1 p {
+    color: #000000;
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.l2, .l3 {
+    padding: 10px 20px;
+    margin: 10px 10px 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.l2 {
+    background-color: #023c67;
+    color: #ffffff;
+}
+
+.l2:hover {
+    background-color: #023c67;
+}
+
+.l3 {
+    background-color: #ffffff;
+    color: #023c67;
+    border: 2px solid #0A3D62;
+}
+
+.l3:hover {
+    background-color: #c1250f;
+    color: #ffffff;
+}
+
+hr {
+    margin: 20px 0;
+    border: 1px solid #023c67;
+}
+
+.l5 {
+    width: 100%;
+    border: 1px solid #023c67;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+.l6 th {
+    background-color: #023c67;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+}
+
+.l7 td {
+    padding: 10px;
+    border: 1px solid #023c67;
+    color: #000000;
+}
+.l8 {
+    width: 100%;
+    overflow-x: auto; 
+}
+
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    .l1 {
+        padding: 15px;
+        margin: 10px;
+    }
+
+    .l2, .l3 {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .l5, .l5 th, .l5 td {
+        font-size: 14px;
+        width: 50px;;
+    }
+}

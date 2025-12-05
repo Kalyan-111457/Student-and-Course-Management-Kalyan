@@ -1,0 +1,91 @@
+/* Container */
+.pk11 {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  background-color: #ffffff;
+  border: 2px solid #023c67;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  color: #023c67;
+
+
+}
+
+.pk121{
+  color:#023c67;
+  text-align: center;
+  margin-top:100px;
+}
+
+/* Form */
+.pk12 {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Form heading */
+.pk11 h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Labels */
+.pk12 label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #023c67;
+}
+
+/* Inputs */
+.add-input {
+  width: 100%;
+  padding: 8px 10px;
+  margin-bottom: 15px;
+  border: 1.5px solid #023c67;
+  border-radius: 5px;
+  font-size: 15px;
+  outline: none;
+  box-sizing: border-box;
+  transition: border 0.3s;
+}
+
+.add-input:focus {
+  border-color: #023c67;
+}
+
+/* Submit button */
+.pk13 {
+  padding: 10px 20px;
+  background-color: #023c67;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.pk13:hover {
+  background-color: #023c67;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  .pk11 {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .add-input {
+    font-size: 14px;
+    padding: 7px;
+  }
+
+  .pk13 {
+    font-size: 15px;
+    padding: 8px 0;
+  }
+}

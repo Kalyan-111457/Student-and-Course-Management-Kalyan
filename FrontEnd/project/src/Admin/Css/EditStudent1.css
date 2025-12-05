@@ -1,0 +1,104 @@
+.h-container {
+  display: flex;
+  align-items: center;    
+  justify-content: center;
+  min-height: 100vh;
+  gap: 20px;                
+  padding: 30px;
+  background-color: #f4f7fb;
+  margin-top: 70px;
+}
+
+.h92 {
+  background-color: #023c67;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+  transition: 0.3s ease;
+}
+
+.h92:hover {
+  background-color: #03528f;
+  transform: scale(1.1);
+}
+
+/* Form card */
+.h2 {
+  background-color: #fff;
+  max-width: 600px;
+  flex: 1;
+  padding: 30px 35px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h2 label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.h2 input,
+.h2 select {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #023c67;
+  border-radius: 6px;
+  outline: none;
+  font-size: 15px;
+}
+
+.h2 input:focus,
+.h2 select:focus {
+  border-color: #03528f;
+}
+
+.h3 {
+  margin-top: 20px;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #023c67;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.h3:hover {
+  background-color: #03528f;
+  transform: translateY(-2px);
+}
+
+.h-error {
+  color: red;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .h-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .h92 {
+    align-self: flex-start;
+  }
+
+  .h2 {
+    max-width: 95%;
+  }
+}
